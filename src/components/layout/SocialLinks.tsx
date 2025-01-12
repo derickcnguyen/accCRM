@@ -10,17 +10,17 @@ interface SocialLink {
 const socialLinks: SocialLink[] = [
   {
     icon: <Github size={20} />,
-    href: 'https://github.com/yourusername',
+    href: 'https://github.com/derickcnguyen',
     label: 'GitHub'
   },
   {
     icon: <Twitter size={20} />,
-    href: 'https://twitter.com/yourusername',
+    href: 'https://twitter.com/1dericknguyen',
     label: 'Twitter'
   },
   {
     icon: <Linkedin size={20} />,
-    href: 'https://linkedin.com/in/yourusername',
+    href: 'https://linkedin.com/in/1derick-nguyen',
     label: 'LinkedIn'
   }
 ];
